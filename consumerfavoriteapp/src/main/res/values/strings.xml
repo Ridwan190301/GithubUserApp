@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConsumerFavoriteApp</string>
+    <string name="delete">Delete</string>
+    <string name="username">Username</string>
+    <string name="repository">Repositories</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="favorite">Favorite</string>
+</resources>

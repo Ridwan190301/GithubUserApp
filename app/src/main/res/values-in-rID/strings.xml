@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Cari</string>
+    <string name="Languages">Bahasa</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="follow">Ikuti</string>
+    <string name="favorite">Favorit</string>
+    <string name="unfollow">Berhenti Mengikuti</string>
+    <string name="akun">Akun</string>
+    <string name="delete">Hapus</string>
+    <string name="notification">Pengaturan Notifikasi</string>
+    <string name="notifikasi_aktif">Aktifkan</string>
+    <string name="notifikasi_nonaktif">Matikan</string>
+    <string name="no_data">Tidak ada Data</string>
+</resources>

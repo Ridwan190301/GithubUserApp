@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">GithubUserApp</string>
+    <string name="search">Search</string>
+    <string name="Languages">Languages</string>
+    <string name="username">Username</string>
+    <string name="repository">Repositories</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="ridwan_efendi" translatable="false">Ridwan Efendi</string>
+    <string name="ridwan190301" translatable="false">Ridwan190301</string>
+    <string name="ridwanefendi1903_gmail_com" translatable="false">Ridwanefendi1903@gmail.com</string>
+    <string name="_085754678900" translatable="false">085754678900</string>
+    <string name="kediri_indonesia" translatable="false">Kediri, Indonesia</string>
+    <string name="akun">Account</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete">Delete</string>
+    <string name="notification">Setting Notification</string>
+    <string name="notifikasi_aktif">Turn on</string>
+    <string name="notifikasi_nonaktif">Turn off</string>
+    <string name="no_data">No Data</string>
+</resources>
